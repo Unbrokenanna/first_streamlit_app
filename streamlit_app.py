@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('I'm starting new project')
+streamlit.title("I'm starting new project")
